@@ -8,5 +8,9 @@ This is the code for string server:
 
 <img width="843" alt="Screenshot 2023-04-24 at 11 32 39 PM" src="https://user-images.githubusercontent.com/130015533/234193467-fdd68803-be4c-4fb4-a8d6-d9a0f1357317.png">
 
+This is one of the servers I was able to open:
+<img width="1195" alt="Screenshot 2023-04-24 at 11 27 29 PM" src="https://user-images.githubusercontent.com/130015533/234193778-28485301-b8ac-4f8f-9509-628a2c727b48.png">
+
+
 
 
