@@ -14,6 +14,15 @@ After running the code in my terminal to create a server I created one of my own
   
 ![Image 5-10-23 at 9 14 PM](https://github.com/oRyLee/Lab-Report-2/assets/130015533/1c1e3048-50d1-4c47-90c2-aa88d21c85be)
 
+Q & A:
+Which methods in your code are called?
+- the handleRequest method is called, the handle method from the class of ServerHTTPHandler, as well as the main method within the StringServer class
+What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+- the relevant arguments within creating a server is the first argument put into the command line which is the 4 digit number which serves as the port number
+How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+The port number value is subject to change when being input to the command line
+  
+  
   
 I did the same process to add another line of text in the search bar with the format ```/add-message?s=<string>```, I then did this process twice with the strings "Hello" and "How are you" and saved them: 
   
@@ -24,6 +33,16 @@ I did the same process to add another line of text in the search bar with the fo
   
  Once reloading the server in the browser the text I added successfully saved and this was the final screen:
 ![Image 5-10-23 at 9 16 PM](https://github.com/oRyLee/Lab-Report-2/assets/130015533/1755e5e9-651f-444a-993b-c8fd0804e911)
+
+Q & A:
+Which methods in your code are called?
+- the handleRequest method is called, the handle method from the class of ServerHTTPHandler, as well as the main method within the StringServer class
+What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+- the relevant arguments within creating a server is the first argument put into the command line which is the 4 digit number which serves as the port number as well as the portion of the path that had "/add-message"
+How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+The port number value is subject to change when being input to the command line as well as the string added in the search bar after "/add-message?s="
+  
+  
 
   
  
