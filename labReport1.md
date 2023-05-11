@@ -45,7 +45,15 @@ What are the relevant arguments to those methods, and the values of any relevant
 
 How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
 -The port number value is subject to change when being input to the command line as well as the string added in the search bar after "/add-message?s="
-  
+ 
+ 
+Part 2:
+
+A bug I saw in the lab was in the ArrayExamples class where the implementation of reversing the last element of the array did not work successfully:
+
+
+
+
   
 
   
