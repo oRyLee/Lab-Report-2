@@ -50,6 +50,11 @@ How do the values of any relevant fields of the class change from this specific 
 Part 2:
 
 A bug I saw in the lab was in the ArrayExamples class where the implementation of reversing the last element of the array did not work successfully:
+![Image 5-10-23 at 10 33 PM](https://github.com/oRyLee/Lab-Report-2/assets/130015533/d2ea484a-43b9-440d-bd3a-985fd690c29e)
+
+A test that is non-failure inducing and one that is failure inducing is shown below:
+
+
 
 
 
