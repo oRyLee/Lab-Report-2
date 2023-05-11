@@ -53,6 +53,14 @@ A bug I saw in the lab was in the ArrayExamples class where the implementation o
 ![Image 5-10-23 at 10 33 PM](https://github.com/oRyLee/Lab-Report-2/assets/130015533/d2ea484a-43b9-440d-bd3a-985fd690c29e)
 
 A test that is non-failure inducing and one that is failure inducing is shown below:
+![Image 5-10-23 at 11 04 PM](https://github.com/oRyLee/Lab-Report-2/assets/130015533/4b4e90a7-a2c2-4904-99fd-e1cccc55d495)
+
+the failure inducing input brough on this error because the expected and actual were not the same:
+
+
+After evaluating the code this is the correctly implemented code I came up with:
+
+After making new tests for the new code (which are shown below) I ran the tests and they worked successfully!
 
 
 
