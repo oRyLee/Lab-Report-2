@@ -15,9 +15,14 @@ After running the code in my terminal to create a server I created one of my own
 ![Image 5-10-23 at 9 14 PM](https://github.com/oRyLee/Lab-Report-2/assets/130015533/1c1e3048-50d1-4c47-90c2-aa88d21c85be)
 
   
-
-This is one of the servers I was able to open:
-<img width="1195" alt="Screenshot 2023-04-24 at 11 27 29 PM" src="https://user-images.githubusercontent.com/130015533/234193778-28485301-b8ac-4f8f-9509-628a2c727b48.png">
+I did the same process to add another line of text with the format /add-message?s=<string>, I then did this process twice with the strings "Hello" and "How are you" and saved them: 
+  
+ After saving them I was met with this screen: 
+  
+  
+ Once reloading the server in the browser the text I added successfully saved and this was the final screen:
+  
+ 
 
 
 
