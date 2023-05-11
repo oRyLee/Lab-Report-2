@@ -18,9 +18,13 @@ After running the code in my terminal to create a server I created one of my own
 I did the same process to add another line of text with the format /add-message?s=<string>, I then did this process twice with the strings "Hello" and "How are you" and saved them: 
   
  After saving them I was met with this screen: 
+ ![Image 5-10-23 at 9 49 PM](https://github.com/oRyLee/Lab-Report-2/assets/130015533/a6b60e49-ab12-43a5-a6a0-a32316688e88)
+
   
   
  Once reloading the server in the browser the text I added successfully saved and this was the final screen:
+![Image 5-10-23 at 9 16 PM](https://github.com/oRyLee/Lab-Report-2/assets/130015533/1755e5e9-651f-444a-993b-c8fd0804e911)
+
   
  
 
