@@ -66,7 +66,10 @@ After evaluating the code this is the correctly implemented code I came up with:
 
 
 After making new tests for the new code (which are shown below) I ran the tests and they worked successfully!
+![Image 5-10-23 at 11 19 PM](https://github.com/oRyLee/Lab-Report-2/assets/130015533/21692a43-8866-47ac-9fb6-066e53b48fcc)
 
+Part 3:
+Something I've learned from the lab was how to use JUnit to run tests which became easier because I had trouble with it before. I also learned how to create a server and the code that is written to create one, which was interesting. I also learned more about common errors in code implementations from all of the bugs we observed. Overall the labs were helpful and opened my eyes to new code.
 
 
 
